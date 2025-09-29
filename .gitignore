@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtualenv
+.venv/
+
+# Outputs
+out/
+
+# OS junk
+.DS_Store
+
+# Secrets
+.env
+# Local data files (keep a sample instead)
+employees.csv
+providers.csv

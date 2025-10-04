@@ -1,0 +1,17 @@
+{
+  "routes": [
+    {
+      "src": "^/$",
+      "status": 308,
+      "headers": {
+        "Location": "/qr"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "verify.helprush.in"
+        }
+      ]
+    }
+  ]
+}

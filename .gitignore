@@ -17,3 +17,4 @@ out/
 # Local data files (keep a sample instead)
 employees.csv
 providers.csv
+.vercel
